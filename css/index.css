@@ -1,0 +1,22 @@
+body{
+    background-image: url('/img/background.png');
+    background-size: cover;
+    font-family: 'Amatic SC', cursive;  
+}
+
+.nombres{
+    border-radius: 0.6rem;
+    font-size: 45px;
+}
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    color: #FF2A00;
+    font-size: 75px;
+}
+
+h3{
+    font-family: 'Permanent Marker', cursive;
+    color: #73E6F5;
+    font-size: 50px;
+}
